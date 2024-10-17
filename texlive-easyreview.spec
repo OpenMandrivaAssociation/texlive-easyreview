@@ -3,7 +3,7 @@ Version:	38352
 Release:	2
 Summary:	Package to provide a way to review (or perform editorial process) in LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/easyreview
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/easyreview
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/easyreview.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/easyreview.doc.r%{version}.tar.xz
